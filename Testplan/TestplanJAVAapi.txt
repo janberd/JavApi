@@ -1,0 +1,4 @@
+Testplan:
+
+API (het ophalen van artikelen)
+Zoeken (Het zoeken van de artikelen)

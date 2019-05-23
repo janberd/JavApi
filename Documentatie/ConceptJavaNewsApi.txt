@@ -1,0 +1,5 @@
+Website
+Gebruiker heeft optie om te zoeken (onderwerp, bron, land, auteur, taal, datum)
+Sorteren op categorie
+Inloggen/Registratie
+Reacties plaatsen
